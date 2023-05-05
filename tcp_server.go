@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/rubixsoff/is105sem03"
+	"github.com/rubixsoff/is105sem03/mycrypt"
 	"io"
 	"log"
 	"net"
